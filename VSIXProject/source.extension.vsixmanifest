@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="VSIXProject.bf80e494-1815-4f6a-a6a3-0ab1285e1c2c" Version="1.0" Language="en-US" Publisher="Mohit Chakraborty" />
         <DisplayName>SolutionEventListener</DisplayName>
-        <Description xml:space="preserve">Extension to listent to solution and project related events</Description>
+        <Description xml:space="preserve">Extension to listen to solution and project events related to open, close, load and unload.</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />
